@@ -1,0 +1,20 @@
+eclipse 配置相关
+http://blog.unvs.cn/archives/android-eclipse-alt.html
+
+
+android中文
+http://www.androiddevtools.cn/
+
+
+国内镜像
+http://wear.techbrood.com/
+
+
+中文api手册
+http://wiki.eoeandroid.com/Linear_Layout
+
+
+
+http://www.cnblogs.com/devinzhang/archive/2012/02/13/2350068.html
+
+

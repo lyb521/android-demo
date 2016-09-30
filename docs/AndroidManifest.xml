@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+ <uses-permission />
+ <permission />
+ <permission-tree />
+ <permission-group />
+ <instrumentation />
+ <uses-sdk />
+ <uses-configuration />  
+ <uses-feature />  
+ <supports-screens />  
+ <compatible-screens />  
+ <supports-gl-texture />  
+ <application>
+     <!--配置Activity组件-->
+        <activity>
+         <intent-filter>
+             <action />
+             <category />
+             <data />
+         </intent-filter>
+         <meta-data />
+     </activity>
+     <activity-alias>
+         <intent-filter> . . . </intent-filter>
+         <meta-data />
+     </activity-alias>
+<!--配置Service组件-->
+        <service>
+         <intent-filter> . . . </intent-filter>
+         <meta-data/>
+     </service>
+<!--配置Broadcast Reciver组件-->
+     <receiver>
+         <intent-filter> . . . </intent-filter>
+         <meta-data />
+     </receiver>
+<!--配置Content Provider组件-->
+       <provider>
+         <grant-uri-permission />
+         <meta-data />
+     </provider>
+     <uses-library />
+ </application>
+</manifest>
